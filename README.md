@@ -13,3 +13,5 @@ sound card or compatible
 3. CGA, Tandy, or VGA graphics
 
 4. MS-DOS 5.x or better
+
+5. 640k of memory (more may be required for DAC samples)
