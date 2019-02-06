@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # GBFM Tracker
 
 GBFM Tracker is a open source music creation and playback platform that mainly utilizes
