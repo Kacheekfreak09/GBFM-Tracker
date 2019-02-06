@@ -1,4 +1,4 @@
-# GBFM Tracker
+# ░▒▓█ GBFM Tracker █▓▒░
 
 GBFM Tracker is a open source music creation and playback platform that mainly utilizes
 the C/MS chips of the Creative Music System/Game Blaster,
