@@ -1,8 +1,8 @@
 # GBFM Tracker
 
 GBFM Tracker is a open source music creation and playback platform that mainly utilizes
-the C/MS (and optionally FM and DAC) chips of the Creative Music System/Game Blaster
-and original Sound Blaster models for older MS-DOS computers.
+the C/MS chips of the Creative Music System/Game Blaster,
+aswell as the FM and DAC chips of the original Sound Blaster models, made for older MS-DOS computers.
 
 # ░▒▓█ Requirements █▓▒░
 1. A 286 or better CPU (386DX or 486 recommended)
